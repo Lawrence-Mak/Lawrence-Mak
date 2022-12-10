@@ -12,11 +12,11 @@
 
 <br>
 
-- Certified Data Analytics Professional
-- A passionate Self-taught Front-end developer
+- Research Analyst at the Government of Ontario
+- Passionate Self-taught Front-end developer
 - Currently learning Web Development 
 - Personal website [link]
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]
+- I’m currently open for an Internship or a new job opportunity, this is [my resume]
 
 <br><br>
 
